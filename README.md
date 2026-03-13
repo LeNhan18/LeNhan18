@@ -1,7 +1,7 @@
 👋 Hi, I’m @Le Thanh Nhan
 - 👀 I’m interested in new programming languages
 - 🌱 I’m currently learning information technology (majoring AI)
-- 💞️ I’m looking to collaborate on github and linkled
+- 💞️ I’m looking to collaborate on github and linkedln
 - 📫 How to reach me email: lnhan8132@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: not interesting
